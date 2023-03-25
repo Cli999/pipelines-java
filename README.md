@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wenli0790/DevOps-MS-learn/_apis/build/status/Cli999.pipelines-java?branchName=main)](https://dev.azure.com/wenli0790/DevOps-MS-learn/_build/latest?definitionId=6&branchName=main)
 
 # Contributing
 
